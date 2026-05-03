@@ -1,5 +1,5 @@
 [versions]
-glory = "2.1.1"
+glory = "3.4.3"
 
 [libraries]
 glory = { module = "io.ktor:ktor-server-cio", version.ref = "glory" }
