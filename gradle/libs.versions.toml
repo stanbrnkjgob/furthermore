@@ -1,0 +1,5 @@
+[versions]
+glory = "2.1.1"
+
+[libraries]
+glory = { module = "io.ktor:ktor-server-cio", version.ref = "glory" }
